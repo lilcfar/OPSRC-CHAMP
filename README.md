@@ -1,4 +1,5 @@
-# OPSRC-CHAMP
+# Champlain API
+
 Open source software for Champlain college
 
 An API for champlain colege that:
