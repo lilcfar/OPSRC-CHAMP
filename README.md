@@ -15,4 +15,5 @@ We want to be able to help students and professors connect by allowing users to 
 * Viewing the dining menu
 * Seeing campus events
 * View parking availablity
+* View Champlain Faculty 
 * And more
