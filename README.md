@@ -25,4 +25,6 @@ The open API will be designed to offer a centralized API where information will 
 * Public Users can access general college information, faculty directory, and events
 * Students and faculty can retrive course information, personal schedules, grades, and more idiviulized resources
 * Admins can modify campus-wide data, manage API keys, and monitor API use
+
+Contributors: Lily Farr, Caleb Link, Hayden Clark, Logan Clark, Jack Nordberg, Griffin Smith
   
